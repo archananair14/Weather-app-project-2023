@@ -1,0 +1,68 @@
+body {
+  background-color: lavenderblush;
+}
+h1 {
+  text-align: center;
+  margin: 20px;
+  padding: 25px;
+  font-family: "Londrina Shadow", cursive;
+  font-size: 100px;
+}
+h2 {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 15px;
+}
+.end {
+  margin: 25px;
+}
+.container {
+  text-align: center;
+}
+.check {
+  color: forestgreen;
+  font-size: 45px;
+}
+.game {
+  color: red;
+  font-size: medium;
+}
+.grape {
+  font-size: 40px;
+  font-family: "Londrina Shadow", cursive;
+  color: black;
+}
+.print {
+  color: hotpink;
+}
+.file {
+  font-family: Arial, Helvetica, sans-serif;
+  color: hotpink;
+  font-size: 40px;
+}
+.book {
+  color: black;
+  font-size: 35px;
+}
+.mate {
+  font-size: 15px;
+}
+.run {
+  color: orangered;
+  font-size: 30px;
+}
+.game:hover {
+  color: rgb(0, 166, 255);
+  cursor: pointer;
+  transition: all 2000ms, ease-in-out;
+}
+.run:hover {
+  color: rgb(0, 166, 255);
+  cursor: pointer;
+  transition: all 2000ms, ease-in-out;
+}
+.loop {
+  font-size: 35px;
+}
+.temperature {
+  font-size: 30px;
+}
